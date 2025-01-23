@@ -1,11 +1,14 @@
 ## Halo Semua !!
 berikut hal hal tentang saya
 - 17 tahun
-- Saya sedang mempelajari Golang, Git dan Godot Engine
+- Saya sedang mempelajari Golang, Git dan Rust
 - Salah satu pengguna Linux (I used Fedora btw)
 - Masih belajar
-- 
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilarmstrong&layout=compact)
+
+
 Dah itu aja
 
 <!--
