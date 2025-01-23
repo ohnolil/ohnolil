@@ -4,7 +4,8 @@ berikut hal hal tentang saya
 - Saya sedang mempelajari Golang, Git dan Godot Engine
 - Salah satu pengguna Linux (I used Fedora btw)
 - Masih belajar
-
+- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilarmstrong&layout=compact)
 Dah itu aja
 
 <!--
