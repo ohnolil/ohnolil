@@ -5,8 +5,11 @@ berikut hal hal tentang saya
 - Salah satu pengguna Linux (I used Fedora btw)
 - Masih belajar
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=lilarmstrong&layout=compact
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilarmstrong&layout=compact)
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilarmstrong&layout=compact">
+</a>
 
 
 Dah itu aja
