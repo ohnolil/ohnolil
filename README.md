@@ -1,13 +1,12 @@
 ## Halo Semua !!
-berikut hal hal tentang saya
-- 17 tahun
-- Saya sedang mempelajari Golang, Git dan Rust
+berikut 3 hal tentang saya
+- Saya sedang mempelajari Git, Rust dan Python 
 - Salah satu pengguna Linux (I used Fedora btw)
 - Masih belajar
 
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilarmstrong&layout=compact">
+<a href="###">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilwutwut&layout=compact">
 </a>
 
 
