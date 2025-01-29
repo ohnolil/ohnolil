@@ -6,7 +6,7 @@ berikut 3 hal tentang saya
 
 
 <a href="###">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilwutwut&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilwutwut&layout=compact&theme=tokyonight">
 </a>
 
 
