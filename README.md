@@ -1,28 +1,12 @@
-## Halo Semua !!
-berikut 3 hal tentang saya
-- Saya sedang mempelajari Git, Rust dan Python 
-- Salah satu pengguna Linux (I used Fedora btw)
-- Masih belajar
+## 👋 Hello stranger !!
+*Here are 3 things about me*
+```
+- Still learning mainly about git, python and more
+- I used Linux for daily (Btw I used Fedora)
+- Still learning
+```
 
-
-<a href="###">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilwutwut&layout=compact&theme=tokyonight">
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohnolil&layout=compact&theme=holi">
 </a>
 
-
-Dah itu aja
-
-<!--
-**theamazingantx/theamazingantx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
