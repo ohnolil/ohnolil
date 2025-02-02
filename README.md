@@ -6,7 +6,5 @@
 - Still learning
 ```
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohnolil&layout=compact&theme=holi">
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohnolil&theme=holi&layout=compact&hide_title=false)
 
