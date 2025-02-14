@@ -6,5 +6,5 @@
 - Still learning
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohnolil&theme=holi&layout=compact&hide_title=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xylil&theme=holi&layout=compact&hide_title=false)
 
